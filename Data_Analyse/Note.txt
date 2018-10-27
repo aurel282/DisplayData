@@ -1,0 +1,34 @@
+Traitement des données
+	Import CSV																								Ok
+	Traitement CSV																							Ok
+	Traitement complet des données																			Ok
+
+1ère Génération OK
+	Obtenir les bonnes positions X, Y, Z du cylindre														OK
+	Génération cylindre de longueur identique aux bonnes positions											OK
+	Variation angle cylindre en fonction																	OK
+
+2ème Génération
+	Nombre de data par tour différents en fonction du rayon					-----> Faite et tésté mais impossible à mettre en place
+	Taille de cylindre différent en fonction de la position et du rayon										OK
+	!!!! Variation de l'angle due au rétrecissement du cercle!!!!											OK
+
+		-> Fonction obtention de l'ecart d'angle															OK
+		-> Fonction obtention rapport de data par rayon						-----> Faite et tésté mais impossible à mettre en place
+		-> Fonction distance entre 2 point																	OK
+
+3ème Génération
+	Optimisation pour avoir plus de données -> plus de cylindre -> Cylindre plus petit						OK
+	Variation progressive des hauteurs de cylindre															OK
+4ème Génération
+		Variation angle de cylindre selon la hauteur du prochain point	    -----> Fait mais donne une mauvais image
+5ème Génération(Test)
+	Variation diamètre du cylindre en fonction du volume
+
+
+
+
+Bonus
+	- Modification à chaud de la vue et de la lumière
+	- Lissage du graphe
+	- Export STL via .txt -> OpenSquad

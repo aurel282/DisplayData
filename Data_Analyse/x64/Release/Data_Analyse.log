@@ -1,0 +1,17 @@
+﻿Build started 12/01/2016 16:17:17.
+     1>Project "C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\Data_Analyse\Data_Analyse.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\aurel\onedrive\documents\visual studio 2015\projects\data_analyse - copie (2)\data_analyse\General_Function.h(136): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\aurel\onedrive\documents\visual studio 2015\projects\data_analyse - copie (2)\data_analyse\General_Function.h(138): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\aurel\onedrive\documents\visual studio 2015\projects\data_analyse - copie (2)\data_analyse\General_Function.h(141): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\aurel\onedrive\documents\visual studio 2015\projects\data_analyse - copie (2)\data_analyse\General_Function.h(143): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\x64\Release\Data_Analyse.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\x64\Release\Data_Analyse.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\x64\Release\Data_Analyse.lib" /MACHINE:X64 x64\Release\main.obj
+     1>LINK : fatal error LNK1561: entry point must be defined
+     1>Done Building Project "C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\Data_Analyse\Data_Analyse.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.89

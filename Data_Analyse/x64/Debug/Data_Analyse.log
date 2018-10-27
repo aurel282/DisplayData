@@ -1,0 +1,10 @@
+﻿Build started 12/01/2016 16:16:59.
+     1>Project "C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\Data_Analyse\Data_Analyse.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\x64\Debug\Data_Analyse.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\lib\SDL2-2.0.4\lib\x64" /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\lib\SDL2-2.0.4" SDL2.lib SDL2main.lib SDL2test.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\x64\Debug\Data_Analyse.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\x64\Debug\Data_Analyse.lib" /MACHINE:X64 x64\Debug\main.obj
+         Data_Analyse.vcxproj -> C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\x64\Debug\Data_Analyse.exe
+     1>Done Building Project "C:\Users\aurel\OneDrive\Documents\Visual Studio 2015\Projects\Data_Analyse - Copie (2)\Data_Analyse\Data_Analyse.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.97
